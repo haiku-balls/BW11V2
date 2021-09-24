@@ -51,7 +51,7 @@ xcopy appraiserres.dll C:\$WINDOWS.~BT\Sources /Y
 cls
 echo Done.
 echo Press ENTER to exit.
-pause
+pause > nul
 exit
 :colorEcho
 echo off
