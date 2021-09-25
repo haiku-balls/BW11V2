@@ -36,21 +36,23 @@ cls
 title BW11V2
 echo -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 echo Bypass Windows 11 Version 2 (BW11V2)
-echo By Baka
+echo By Baka - Second Release
 echo -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-echo Bypasses ALL Windows 11 requirements.
-echo Press any key to continue
+echo Bypasses the Windows Update Checks && echo.
+echo Press any key to continue.
 pause > nul
 cls
-call :colorEcho 40 "WARNING! Microsoft recommends not doing this. You've been warned." && echo.
-echo This script is intended if you're attempting to upgrade your build or to Windows 11 using the setting app.
+call :colorEcho 40 "Microsoft recommends not doing this. You've been warned" && echo.
+echo This script is intended if you're attempting to upgrade your build or to Windows 11 using the settings app.
 echo If so, upgrade normal, once the setup appears and it reports that you're not compatible. Close the setup.
-echo Then PRESS ENTER.
+echo.
+echo Then press any key to continue.
 pause > nul
 xcopy appraiserres.dll C:\$WINDOWS.~BT\Sources /Y
 cls
-echo Done.
-echo Press ENTER to exit.
+echo Now, press "Fix issues" or "Try again" in windows update. When the setup re-appears, it won't prevent you from upgrading.
+echo Make sure to do this everytime you want to update or upgrade. :) && echo.
+echo Press any key to exit.
 pause > nul
 exit
 :colorEcho
