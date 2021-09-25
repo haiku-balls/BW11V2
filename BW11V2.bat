@@ -38,7 +38,7 @@ echo -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 echo Bypass Windows 11 Version 2 (BW11V2)
 echo By Baka - Second Release
 echo -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-echo Bypasses the Windows Update Checks && echo.
+echo Bypasses the Windows 11 Update Checks && echo.
 echo Press any key to continue.
 pause > nul
 cls
