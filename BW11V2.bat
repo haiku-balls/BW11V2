@@ -36,7 +36,7 @@ cls
 title BW11V2
 echo [35m-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 echo Bypass Windows 11 Version 2 (BW11V2)
-echo By Baka - Second Release
+echo By Baka - Third Release
 echo -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 echo [37mBypasses the Windows 11 Update Checks && echo.
 echo Press any key to continue.
