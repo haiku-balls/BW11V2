@@ -1,7 +1,7 @@
 # BW11V2
 Bypasses the Windows 11 requirements when trying to use Windows Update.  
 *Remember: Microsoft doesn't recommend doing this.*  
-*(To enroll in the insider program from Windows 11 on unsupported hardware [you could use OLIE](https://github.com/abbodi1406/offlineinsiderenroll).*  
+*(To enroll in the insider program for Windows 11 on unsupported hardware [you could use OLIE](https://github.com/abbodi1406/offlineinsiderenroll).*  
 
 Simply run the batch. Make sure to follow the instructions given, and run as admin.  
 Latest Release: [Click Me!](https://github.com/bakabakabakabakabaka/BW11V2/releases/tag/v1.1)  
