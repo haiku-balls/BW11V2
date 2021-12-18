@@ -1,4 +1,6 @@
 # BW11V2
+**⚠️Please note: This repo isn't maintained anymore, there are much better alternatives. [click me](https://github.com/AveYo/MediaCreationTool.bat/tree/main/bypass11)**  
+  
 Bypasses the Windows 11 requirements when trying to use Windows Update.  
 *Remember: Microsoft doesn't recommend doing this.*  
 *(To enroll in the insider program for Windows 11 on unsupported hardware [you could use OLIE](https://github.com/abbodi1406/offlineinsiderenroll).*  
